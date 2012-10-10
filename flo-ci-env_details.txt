@@ -1,0 +1,5 @@
+-------------------------------------------------------------
+
+{"postgresql-9.1":[{"name":"postgresql-flohci","label":"postgresql-9.1","plan":"free","tags":["postgresql","postgresql-9.1","relational"],"credentials":{"name":"d6a367091a0324b6a96aa89feff9421a1","host":"10.0.48.220","hostname":"10.0.48.220","port":5432,"user":"u0511d3eaa1c84466bcba736f3891b2cb","username":"u0511d3eaa1c84466bcba736f3891b2cb","password":"pb5642d331084405c9fb914b205852758"}}]}
+
+-------------------------------------------------------------
